@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_fairlady.mk
+    $(LOCAL_DIR)/lineage_fairlady.mk \
+    $(LOCAL_DIR)/petal_fairlady.mk
