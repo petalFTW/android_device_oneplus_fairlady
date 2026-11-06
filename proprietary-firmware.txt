@@ -1,7 +1,7 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 15T (PLZ110_16.0.9.400(CN01)).
 
-abl.img;AB
+abl.img;AB|0cf1d9f1b9411ad64714f04e99dcdb43b4eba573
 aop.img;AB
 aop_config.img;AB
 bluetooth.img;AB
